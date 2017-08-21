@@ -3,3 +3,5 @@
 ################################################################################
 
 /azureppt/bin/Release/PublishOutput
+/azureppt/obj/Release
+/azureppt/Properties/PublishProfiles
